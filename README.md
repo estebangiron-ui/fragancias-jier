@@ -114,7 +114,7 @@
   <section class="section" id="contacto">
     <h2>Contáctanos</h2>
     <p>📍 Tuxtla Gutiérrez, Chiapas  
-    📧 contacto@fraganciasjier.mx  
+    📧 contacto@fraganciasjier.mx , www.facebook.com/profile.php?id=61580138804047
     📱 WhatsApp: +52 961 123 4567</p>
   </section>
 
